@@ -1,0 +1,9 @@
+127.0.0.1 - - [03/Oct/2023:19:23:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:19:23:29 +0530] "GET /FirstApplication/WEB-INF/classes/com/revision/MyServlet.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:19:23:29 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:19:24:26 +0530] "GET /FirstApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:19:25:20 +0530] "GET /FirstApplication/MyServlet2 HTTP/1.1" 200 38
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:19:40:27 +0530] "GET /FirstApplication/MyServlet2 HTTP/1.1" 200 38
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:19:40:34 +0530] "GET /FirstApplication/hello HTTP/1.1" 404 777
+127.0.0.1 - - [03/Oct/2023:19:41:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:19:41:10 +0530] "GET /FirstApplication/hello HTTP/1.1" 200 38

@@ -1,0 +1,30 @@
+package com.revision;
+
+import java.io.IOException;
+import javax.servlet.GenericServlet;
+import javax.servlet.ServletException;
+import javax.servlet.ServletRequest;
+import javax.servlet.ServletResponse;
+
+/**
+ * Servlet implementation class MyServlet2
+ */
+public class MyServlet2 extends GenericServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see GenericServlet#GenericServlet()
+     */
+    public MyServlet2() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see Servlet#service(ServletRequest request, ServletResponse response)
+	 */
+	public void service(ServletRequest request, ServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+}
